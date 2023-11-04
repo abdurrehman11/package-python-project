@@ -1,0 +1,3 @@
+# Use my-package from GitHub
+git+https://github.com/abdurrehman11/packaging-tutorial.git
+numpy
